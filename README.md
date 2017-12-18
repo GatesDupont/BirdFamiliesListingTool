@@ -1,5 +1,5 @@
 # BirdFamiliesListingTool
-This is a tool that allows eBird users to list all of the families of birds they have observed. It also tells you what birds you need for your family lifelist in a region. 
+This is a tool that allows eBird users to list all of the families of birds they have observed. It also tells the user what birds they need for their family lifelist in a region. 
 
 Just a few things to get started:
 1) Log in to eBird 
