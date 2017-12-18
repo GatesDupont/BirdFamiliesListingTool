@@ -8,6 +8,7 @@ Just a few things to get started:
 4) After downloading, drag your data into the same folder (directory) as the R file.
 5) Open the R file and set your working directory (Session > Choose Working Directory).
 6) Set your region of interest by typing in its region code. You can find this by searching for the region on Explore a Region. For example, Costa Rica's url is: http://ebird.org/ebird/country/CR?yr=all , so its county code is CR.
+
 I have added detailed comments to almost every line of the code in case anyone is confused or wants to play around with it.
 I hope you enjoy it!
 
